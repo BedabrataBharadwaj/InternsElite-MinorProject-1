@@ -3,13 +3,13 @@
 
 An ML-based Credit Card Fraud Detection System developed using the Random Forest Classifier. The model analyzes transaction patterns and predicts whether a transaction is legitimate or fraudulent.
 
-Dataset:
+# Dataset:
 Credit Card Fraud Detection Dataset
 
-Source:
+# Source:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-##Technologies Used:
+# Technologies Used:
 
 -Python
 -Pandas
@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 -SMOTE
 -Streamlit
 
-##Model Performance:
+# Model Performance:
 
 -Metric	Score
 -Accuracy	99.97%
@@ -27,5 +27,5 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 -F1 Score	93.83%
 -ROC-AUC	97.48%
 
-##Author
+# Author
 Bedabrata Bharadwaj
