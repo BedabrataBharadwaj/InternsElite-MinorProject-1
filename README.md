@@ -9,22 +9,23 @@ Credit Card Fraud Detection Dataset
 Source:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Technologies Used:
+##Technologies Used:
 
-Python
-Pandas
-NumPy
-Scikit-learn
-SMOTE
-Streamlit
+-Python
+-Pandas
+-NumPy
+-Scikit-learn
+-SMOTE
+-Streamlit
 
-#Model Performance
-Metric	Score
-Accuracy	99.97%
-Precision	95.00%
-Recall	92.68%
-F1 Score	93.83%
-ROC-AUC	97.48%
+##Model Performance:
 
-#Author
+-Metric	Score
+-Accuracy	99.97%
+-Precision	95.00%
+-Recall	92.68%
+-F1 Score	93.83%
+-ROC-AUC	97.48%
+
+##Author
 Bedabrata Bharadwaj
